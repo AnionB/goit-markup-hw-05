@@ -195,7 +195,9 @@ bottom: 0;
   background-color: var(--hover-button-hero);
   cursor: pointer;
 }
-
+.advantage.section {
+  padding-bottom: 0;
+}
 .advantage-list {
   display: flex;
 }
