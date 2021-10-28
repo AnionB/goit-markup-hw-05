@@ -531,10 +531,10 @@ color: var(--text-alt-color);
   border-width: 1px;
   border-color: rgba(0, 0, 0, 0.1) ;
   background-color: transparent;
-  /* display: flex; */
-  /* align-items: center; */
-  /* justify-content: center; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .icon-close{
-  /* height: 11px; */
-  /* width: 11px;} */
+  height: 11px;
+  width: 11px;}
